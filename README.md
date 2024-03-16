@@ -8,6 +8,10 @@ Select operation:
 2. Subtraction
 3. Multiplication
 4. Division
+Enter choice (1/2/3/4): 1
+
+10 + 5 = 15
+
 
 # Simple Calculator (TypeScript)
 
