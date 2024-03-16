@@ -1,3 +1,14 @@
+Welcome to Simple Calculator!
+
+Enter the first number: 10
+Enter the second number: 5
+
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
 # Simple Calculator (TypeScript)
 
 This is a simple calculator project implemented in TypeScript.
@@ -7,3 +18,4 @@ This is a simple calculator project implemented in TypeScript.
 - Subtraction
 - Multiplication
 - Division
+
